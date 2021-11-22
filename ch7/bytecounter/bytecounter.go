@@ -1,6 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/CodingPet-jpg/Ubuntu/ch6/geometry"
+)
 
 type ByteCounter int
 
@@ -14,4 +18,6 @@ func main() {
 	fmt.Printf("before use:%d\n", c)
 	fmt.Fprintf(&c, "%s", "sdaf")
 	fmt.Printf("after use:%d\n", c)
+	p := geometry.Point{X: 1, Y: 2}
+	fmt.Println(p)
 }

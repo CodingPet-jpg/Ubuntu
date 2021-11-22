@@ -1,3 +1,3 @@
-module jokoi.com/ch6
+module github.com/CodingPet-jpg/Ubuntu
 
 go 1.17
