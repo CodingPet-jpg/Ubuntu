@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/CodingPet-jpg/Ubuntu/ch6/geometry"
+	"github.com/CcodingPet-jpg/Uubuntu/ch6/geometry"
 )
 
 type ByteCounter int
