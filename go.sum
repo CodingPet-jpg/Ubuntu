@@ -1,3 +1,15 @@
+github.com/golang/go v0.0.0-20210804204405-acbe242f8a2c h1:/fvdL6AOqlOC7VLe5LxmkqPjVArmUH6HsH5p/XsB/wE=
+github.com/golang/go v0.0.0-20210804204405-acbe242f8a2c/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/golang/go v0.0.0-20210816162306-ec5170397c72 h1:X4jW1Nftc9wdde0RVoqBhoaf4tgUD1xN0fcQXG1pS9U=
+github.com/golang/go v0.0.0-20210816162306-ec5170397c72/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/golang/go v0.0.0-20210909152721-21a4e67ad58e h1:bgJBWNEVjrFY+suApvITCqjYAAzCKKN6TcmzOenHREY=
+github.com/golang/go v0.0.0-20210909152721-21a4e67ad58e/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/golang/go v0.0.0-20211007181141-2ac3bdf378ae h1:/V1cTanQSSoWOqA+27k2o4+SfNm6TlxrDa6urOohb6w=
+github.com/golang/go v0.0.0-20211007181141-2ac3bdf378ae/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/golang/go v0.0.0-20211104135524-f58c78a57715 h1:Fo2d6jAc1W1HJrFFexAkmI+io0+N3TdIk3LcaEyR45g=
+github.com/golang/go v0.0.0-20211104135524-f58c78a57715/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/golang/go v0.0.0-20211122235143-83bfed916b97 h1:L2hqdEM+tmm+EgHCuBOU6AdIXIbehrP+bLCYgCska+4=
+github.com/golang/go v0.0.0-20211122235143-83bfed916b97/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
 golang.org/x/net v0.0.0-20210929193557-e81a3d93ecf6/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
 golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 h1:CIJ76btIcR3eFI5EgSo6k1qKw9KJexJuRLI9G7Hp5wE=
 golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
