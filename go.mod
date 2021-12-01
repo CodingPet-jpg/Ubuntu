@@ -1,4 +1,4 @@
-module github.com/CodingPet-jpg/Ubuntu.git
+module github.com/CodingPet-jpg/Ubuntu/v2
 
 go 1.17
 
